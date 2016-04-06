@@ -1,0 +1,22 @@
+# Change Log
+
+## [1.18] - 2016-04-05
+### Fixed
+- RoC alarms incorrectly checking every 5 minutes
+- RoC Alarms - Analogue channels delayed
+
+### Changed
+- Dialog boxes now formatted
+- Friendlier SDI-12/Modbus error message
+
+### Added
+- SDI-12 - RoC Alarms
+- Counter/Event - Above Alarms
+- Super Channels - Rating Table
+- Rating Table - Hydstra Implementation
+- SMS Response -  now gives command validity feedback
+- Help Page - microSpider Connector
+
+### Removed
+- Counter with Log Difference option to use RoC alarm
+
